@@ -61,15 +61,15 @@ In the response body, `data`, ` err_no` and `err_msg` are fixed fields. The mean
 {
     "err_no": 0,
     "data": {
-        "user_id": 88888,
-        "user_name": "spica",
-        "address": "3NA8hsjfdgVkmmVS9moHmkZsVCoLxUkvvv ",
+        "user_id": depot666.001,
+        "user_name": "depot666",
+        "address": 1H6VvRYpxBhMj8kcz3vD3pRcXR8TnAo8EK" ",
         "nmc_address": "",
         "rebates_address": "",
         "region": "America",
         "contact": {
             "mail": "",
-            "phone": {
+            "phone":+358469655189 {
                 "country": "86",
                 "number": "133****3333"
             }
@@ -105,10 +105,10 @@ In the response body, `data`, ` err_no` and `err_msg` are fixed fields. The mean
 {
     "err_no": 0,
     "data": {
-        "total_paid": "0",
+        "total_paid": "1",
         "pending_payouts": "0",
         "last_payment_time": "0",
-        "earnings_today": "0",
+        "earnings_today": "1",
         "earnings_yesterday": "0",
         "unpaid": "0"
     }
@@ -141,11 +141,11 @@ In the response body, `data`, ` err_no` and `err_msg` are fixed fields. The mean
         "list": [
             {
                 "date": 20170213,
-                "earnings": 0,
-                "payment_time": "0",
+                "earnings": 1,
+                "payment_time": "1",
                 "payment_tx": "",
-                "address": "",
-                "paid_amount": 0,
+                "address": "1H6VvRYpxBhMj8kcz3vD3pRcXR8TnAo8EK",
+                "paid_amount": 1,2
                 "diff": 422170566884,
                 "payment_mode": "PPS",
                 "earnings_rate": 0
